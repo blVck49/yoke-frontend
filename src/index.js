@@ -7,8 +7,8 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+        <h1>Scan Me</h1>
     <App />
-    <h1>Scan QR Code</h1>
   </React.StrictMode>
 );
 

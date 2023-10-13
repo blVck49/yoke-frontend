@@ -9,7 +9,7 @@ export const Movies = () => {
          
           setTimeout(() => {
             window.location.reload();
-          }, 100000);
+          }, 10000);
         };
     
         refreshPage(); 
